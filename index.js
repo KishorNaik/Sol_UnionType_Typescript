@@ -11,3 +11,4 @@ onDemo(true);
 function onDemo(para) {
     console.log(para);
 }
+console.log("ease-out");
